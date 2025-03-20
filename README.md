@@ -16,8 +16,6 @@ Features Offer:
 
 * 5: Administrator management tools
 
-[Link to Website](https://louisyuzhe.github.io/simplebot/)
-
 [//]: # (Image References)
 
 [image1]: ./README_media/homepage.png "Screenshot of homepage"
